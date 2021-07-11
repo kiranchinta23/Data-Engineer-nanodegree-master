@@ -143,3 +143,4 @@ We need an extra file with the credentials an information about AWS resources na
 1. Replace AWS IAM Credentials in dl.cfg
 2. If needed, modify input and output data paths in etl.py main function
 3. In the terminal, run python etl.py
+..

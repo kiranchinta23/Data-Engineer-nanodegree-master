@@ -284,4 +284,4 @@ The structure is:
 
 We need an extra file with the credentials an information about AWS resources named <b>dhw.cfg</b>
 
-
+--
